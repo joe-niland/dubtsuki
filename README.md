@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# dub tsu-ki
 
-You can use the [editor on GitHub](https://github.com/joe-niland/dubtsuki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## musicians from sydney, australia
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+dubstep | drum n bass | dub | electronica
 
-### Markdown
+## where to see and hear us
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*   [dub tsu-ki @ last.fm](http://www.last.fm/music/dub+tsu-ki/ "dub tsu-ki last.fm")
+*   [dub tsu-ki @ soundcloud](http://soundcloud.com/dubtsuki "dub tsu-ki soundclou")
+*   [dub tsu-ki @ bandcamp](http://dubtsuki.bandcamp.com/ "dub tsu-ki bandcamp")
+*   [dub tsu-ki @ myspace](http://myspace.com/dubtsuki "dub tsu-ki myspace")
+*   [dub tsu-ki @ youtube](http://www.youtube.com/user/dubtsuki "dub tsu-ki videos")
+*   [dub tsu-ki @ inthemix](http://www.inthemix.com.au/allabout/artist/92201/dub_tsuki "dub tsu-ki gigs via inthemix")
 
-```markdown
-Syntax highlighted code block
+## free tracks
 
-# Header 1
-## Header 2
-### Header 3
+* [overcast](tracks/Dub_Tsu-Ki_-_Overcast.mp3)
+* [robotic](tracks/Dub_Tsu-Ki_-_Robotic.mp3)
 
-- Bulleted
-- List
+## how to contact us
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/joe-niland/dubtsuki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*   email: (lex or joe) dub.tsuki AT gmail DOT com
+*   [twitter](http://twitter.com/dubtsuki)
+*   [![](http://badge.facebook.com/badge/28341888065.3633.814258570.png)](http://www.facebook.com/pages/dub-tsu-ki/28341888065 "dub tsu-ki")
