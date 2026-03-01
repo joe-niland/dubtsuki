@@ -6,7 +6,7 @@ dubstep | drum n bass | dub | electronica
 
 ## where to see and hear us
 
-*   [dub tsu-ki @ last.fm](http://www.last.fm/music/dub+tsu-ki/ "dub tsu-ki last.fm")
+*   [dub tsu-ki @ last.fm](https://www.last.fm/music/Dub+Tsu-Ki "dub tsu-ki last.fm")
 *   [dub tsu-ki @ soundcloud](http://soundcloud.com/dubtsuki "dub tsu-ki soundclou")
 *   [dub tsu-ki @ bandcamp](http://dubtsuki.bandcamp.com/ "dub tsu-ki bandcamp")
 *   [dub tsu-ki @ myspace](http://myspace.com/dubtsuki "dub tsu-ki myspace")
