@@ -22,4 +22,3 @@ dubstep | drum n bass | dub | electronica
 
 *   email: (lex or joe) dub.tsuki AT gmail DOT com
 *   [twitter](http://twitter.com/dubtsuki)
-*   [![](http://badge.facebook.com/badge/28341888065.3633.814258570.png)](http://www.facebook.com/pages/dub-tsu-ki/28341888065 "dub tsu-ki")
